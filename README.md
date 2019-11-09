@@ -1,2 +1,2 @@
 # ModeloSPA_Portfolio
-SPA para apresentação pessoal/empresa
+  Modelo criado utilizando HTML, CSS, JavaScript e JQuery, com objetivo de mostrar uma apresentação dos projetos de uma pessoa/empresa de forma simples e bonita
