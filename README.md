@@ -17,7 +17,7 @@ SPA Portfolio
 
 ## Getting started
 
-1. Clone este repositório usando `git clone git@github.com:CarlosLevir/tindev.git`
+1. Clone este repositório usando `git clone git@github.com:ErickScur/ModeloSPA_Portfolio.git`
 2. Abra o arquivo `index.html`
 
 
