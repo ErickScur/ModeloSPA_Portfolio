@@ -8,7 +8,7 @@ SPA Portfolio
 
 
 <div>
-  <img src="https://media1.giphy.com/media/co5mYQy4u4MFDctJVm/giphy.gif" alt="demo-web" height="425">
+  <img src="https://i.giphy.com/media/co5mYQy4u4MFDctJVm/giphy.gif" alt="demo-web" height="425">
 </div>
 
 <hr />
