@@ -163,6 +163,7 @@ li{
 }
 .about-details{
     flex:1;
+    text-align: center;
 }
 .social-media{
     margin-top: 5rem;
@@ -283,7 +284,7 @@ li{
 }
 .portfolio-img{
     flex:2;
-    width: 50rem;
+    width: 30rem;
 
 }
 
@@ -324,15 +325,14 @@ li{
      border: 1px solid rgba( 0, 0, 0, .3);
      border-radius: 3px;
      overflow: hidden;
-     box-shadow: 0 0 10px #2183e7;
 }
 .skillbar span{
     height: 100%;
     float: left;
-    background: #2183e7;
+    background: #fd57bf;
 }
 .html{
-    width:90%;
+    width:100%;
     animation: html 2s;
 }
 .css{
@@ -349,6 +349,10 @@ li{
     width: 60%;
     animation: php 2s;
 }
+.node{
+    width: 20%;
+    animation: node 2s;
+}
 .java{
     width: 40%;
     animation: java 2s;
@@ -362,7 +366,8 @@ form{
     margin: 0 auto;
 }
 form label{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
+    color: white;
 }
 input,select,textarea{
     width: 100%;
@@ -419,7 +424,7 @@ input[type="submit"]:hover{
         width:0%;
     }
     100%{
-        width: 90%;
+        width: 100%;
     }
 }
 @keyframes css{
@@ -452,6 +457,14 @@ input[type="submit"]:hover{
     }
     100%{
         width: 60%;
+    }
+}
+@keyframes node{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 20%;
     }
 }
 @keyframes pulse{
